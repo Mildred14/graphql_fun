@@ -1,3 +1,3 @@
-# Graphql fun
+# Graphql fun workshop 
 
-Learn how to use Graphl with Ruby on Rails step by step. Follow this link -> (...)
+This repo is focused on learn how to use Graphl with Ruby on Rails step by step. Enjoy the journey through this tutorial
